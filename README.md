@@ -28,4 +28,5 @@ If you are accessing the live demo, please use the following credentials:
 
 ### 🧑‍💻 Author
 **Sasini Amarathunga** - Software Engineering Student
+
 Licensed under the MIT License.
